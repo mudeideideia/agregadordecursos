@@ -1,0 +1,124 @@
+{
+  "categorias": [
+    {
+      "titulo": "Programação",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Programação de computadores",
+        "url": "https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_de_computadores"
+      },
+      "videos": [
+        {
+          "titulo": "Introdução ao Python por Projetos | Comece Aqui",
+          "url": "https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J&index=1"
+        },
+        {
+          "titulo": "Curso Python #01 - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=1"
+        },
+        {
+          "titulo": "Curso de Python 3 - Mundo 2: Estruturas de Controle",
+          "url": "https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=1"
+        },
+        {
+          "titulo": "Curso de Python 3 - Mundo 3: Estruturas Compostas",
+          "url": "https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=1"
+        },
+        {
+          "titulo": "Curso Grátis de JavaScript e ECMAScript para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1"
+        }
+      ]
+    },
+    {
+      "titulo": "Estatística",
+      "link": "https://pt.wikipedia.org/wiki/Estat%C3%ADstica",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Campo de estudo da estatística.",
+        "url": "https://pt.wikipedia.org/wiki/Estat%C3%ADstica"
+      },
+      "videos": [
+        {
+          "titulo": "Estatística Básica",
+          "url": "https://www.youtube.com/watch?v=cVIil-PyilQ&list=PLSc7xcwCGNh1nlUYd3NuFDqw3RjnsOowG&index=1"
+        }    
+      ]
+    },
+    {
+      "titulo": "Processos Estocásticos",
+      "link": "https://pt.wikipedia.org/wiki/Processo_estoc%C3%A1stico",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Campo de estudo dos processos estocásticos.",
+        "url": "https://pt.wikipedia.org/wiki/Processo_estoc%C3%A1stico"
+      },
+      "videos": [
+        {
+          "titulo": "Processos Estocásticos",
+          "url": "https://www.youtube.com/watch?v=cVIil-PyilQ&list=PLSc7xcwCGNh0jSylDm0QrDJaFTC3vAbvc"
+        }      
+      ]
+    },
+    
+    {
+      "titulo": "Analise De Dados",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#orange",
+      "link_extra": {
+        "text": "Análise de Dados",
+        "url": "https://pt.wikipedia.org/wiki/An%C3%A1lise_de_dados"
+      },
+      "videos": [
+        {
+          "titulo": "Análise de Dados em Python",
+          "url": "https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR&index=2&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Banco De Dados",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Banco de dados",
+        "url": "https://pt.wikipedia.org/wiki/Banco_de_dados"
+      },
+      "videos": [
+        {
+          "titulo": "Curso de Modelagem de Dados",
+          "url": "https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=2&t=0"
+        }
+      ]
+    },
+    {
+      "titulo": "Algoritmo",
+      "cor": "#ff10d2",
+      "link_extra": {
+        "text": "Campo de estudo do Algoritmo",
+        "url": "https://pt.wikipedia.org/wiki/Algoritmo"
+      },
+      "videos": [
+        {
+          "titulo": "Estruturas de Dados",
+          "url": "https://www.youtube.com/watch?v=iE3_JWR-yaE&list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp&index=1"
+        }
+      ]
+    },
+    {
+      "titulo": "Padrão de Projeto",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Primeiro Jogo Multiplayer",
+          "url": "https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=2&t=0s"
+        }
+      ]
+    }
+  ]
+}
